@@ -44,6 +44,6 @@ Enable the option "Show Develop menu in menu bar"
 
 Use Cmd + Option + I to open Developer Tools
 
-   **3. paste the code into the console**
+   **3. Paste the code into the console**
 ![image](https://github.com/user-attachments/assets/e452a2ce-4353-4159-88b8-f9b1d8d329ba)
 Now you're ready to explore the game directly in your browser!

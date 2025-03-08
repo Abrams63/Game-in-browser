@@ -1,7 +1,7 @@
 # Game-in-browser
+<br/>
 
-## Installation Guide
-
+### Installation Guide <br/>
 To play the game directly in your browser, follow these steps:
 
   **1. Open a Supported Browser**

@@ -24,25 +24,25 @@ Safari
 
 To access the console for interacting with the game, use the following shortcuts:
 
-Google Chrome / Microsoft Edge / Brave / Opera
+-------**Google Chrome / Microsoft Edge / Brave / Opera**
 
-Windows/Linux: Ctrl + Shift + I or F12
+   ***Windows/Linux: Ctrl + Shift + I or F12***
 
-Mac: Cmd + Option + I
+  ***Mac: Cmd + Option + I***
 
-Mozilla Firefox
+-------**Mozilla Firefox**
 
-Windows/Linux: Ctrl + Shift + I or F12
+   ***Windows/Linux: Ctrl + Shift + I or F12***
 
-Mac: Cmd + Option + I
+   ***Mac: Cmd + Option + I***
 
-Safari
+-------**Safari**
 
-Go to Safari settings: Safari → Preferences → Advanced
+   ***Go to Safari settings: Safari → Preferences → Advanced***
 
-Enable the option "Show Develop menu in menu bar"
+   ***Enable the option "Show Develop menu in menu bar"***
 
-Use Cmd + Option + I to open Developer Tools
+   ***Use Cmd + Option + I to open Developer Tools***
 
    **3. Paste the code into the console**
 ![image](https://github.com/user-attachments/assets/e452a2ce-4353-4159-88b8-f9b1d8d329ba)

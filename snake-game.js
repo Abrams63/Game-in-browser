@@ -1,10 +1,9 @@
 (function() {
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
-    const size = 20; // Размер клетки
-    const speed = 200; // Скорость змейки (меньше = быстрее)
+    const size = 20;
+    const speed = 200; 
 
-    // Настройки холста для полноэкранного отображения
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     canvas.style.position = 'fixed';
@@ -13,7 +12,6 @@
     canvas.style.zIndex = '9999';
     canvas.style.backgroundColor = 'rgba(0, 0, 0, 0)';
 
-    // Обработчик изменения размера окна для динамического обновления размеров холста
     window.addEventListener('resize', () => {
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
@@ -30,12 +28,10 @@
     function draw() {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-        // Рисуем границу
         ctx.strokeStyle = 'white';
         ctx.lineWidth = 5;
         ctx.strokeRect(0, 0, canvas.width, canvas.height);
 
-        // Рисуем змейку
         snake.forEach((segment, index) => {
             ctx.fillStyle = index === 0 ? 'lime' : '#32CD32';
             ctx.strokeStyle = '#006400';
@@ -45,7 +41,6 @@
             ctx.strokeRect(segment.x * size, segment.y * size, size, size);
         });
 
-        // Рисуем яблоко
         ctx.beginPath();
         ctx.arc((food.x * size) + size / 2, (food.y * size) + size / 2, size / 2, 0, 2 * Math.PI);
         ctx.fillStyle = 'red';

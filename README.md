@@ -6,12 +6,9 @@ Follow this simple step-by-step guide and start your adventure right inside your
 ### **1️⃣ Open a Supported Browser**  
 Not all browsers are equally friendly to our game, so make sure you’re using one of the tested and confirmed working options:  
 
-- **Google Chrome**  
-- **Microsoft Edge**  
-- **Brave**  
-- **Opera**  
-- **Mozilla Firefox**  
-- **Safari**  
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
+
 
 > 💡 **Tip:** While most modern browsers work fine, we recommend Chrome or Edge for the smoothest experience.  
 
